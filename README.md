@@ -1,3 +1,40 @@
+
+<!-- Thanks Section -->
+<h2 align="center">🙏 Thanks For Using MAXX TECH</h2>
+
+<p align="center">
+  We 💖 your support and encourage you to:
+</p>
+<ul>
+  <li>⭐ Star the project on GitHub</li>
+  <li>🔄 Share it with others</li>
+  <li>🚀 Contribute improvements</li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Carlymaxx/Maxx-tech?style=social" alt="GitHub Stars"/>
+</p>
+
+<p align="center">
+  📧 Email: <a href="mailto:maxxtechxmd@gmail.com">maxxtechxmd@gmail.com</a> <br/>
+  📞 Support: <a href="tel:+254725979273">+254725979273</a> <br/>
+  🌐 WhatsApp Channel: <a href="https://whatsapp.com/channel/0029Vb6XNTjAInPblhlwnm2J" target="_blank">Follow MAXX TECH</a> <br/>
+  💬 WhatsApp Group: <a href="https://chat.whatsapp.com/BWZOtIlbZoJ9Xt8lgxxbqQ" target="_blank">Join Here</a> <br/>
+  🏷️ GitHub Repo: <a href="https://github.com/Carlymaxx/Maxx-tech.git" target="_blank">https://github.com/Carlymaxx/Maxx-tech.git</a>
+</p>
+
+<p align="center">
+  <strong>Made with 💥 by Maxx | Powered by EXTREAME--XMD</strong>
+</p>
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://files.catbox.moe/zvgpno.jpeg" width="280" alt="EXTREAME-XMD Logo"/>
 </p>
